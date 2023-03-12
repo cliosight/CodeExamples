@@ -3,9 +3,9 @@ This repository is dedicated to the detailed illustration of each of the unique 
 To know more visit our [website](https://cliosight.com)
 
 Follow us on:  
-[Medium](https://medium.com/@cliosight)
-[Youtube](https://youtube.com)
-[Twitter](https://twitter.com/@cliosight4data)  
+[Medium](https://medium.com/@cliosight) 
+[Youtube](https://youtube.com)   
+[Twitter](https://twitter.com/@cliosight4data)    
 [Linkedin](https://linkedin.com/company/14571342)
 
 
