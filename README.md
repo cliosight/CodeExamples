@@ -3,7 +3,7 @@ This repository is dedicated to the detailed illustration of each of the unique 
 To know more visit https://cliosight.com
 
 Follow us on:  
-[Twitter] (https://twitter.com/@cliosight)  
-[Linkedin] (https://linkedin.com/company/14571342)
+[Twitter](https://twitter.com/@cliosight)  
+[Linkedin](https://linkedin.com/company/14571342)
 
 
